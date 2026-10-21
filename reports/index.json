@@ -1,8 +1,30 @@
 {
-  "count": 2467,
-  "published": 2262,
+  "count": 2534,
+  "published": 2329,
   "drafts": 205,
   "reports": [
+    {
+      "title": "腾讯控股 (0700.HK)：2024年3月的270 vs 2026年10月的404，哪个更便宜？",
+      "path": "reports/腾讯/腾讯-research-20261021.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-21",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股（0700.HK）：关系链 vs 算法",
+      "path": "reports/腾讯/腾讯-research-20261021-字节竞争.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-21",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "网易研究：三成市值是净现金的游戏现金流，125美元处在观望区，115美元以下分批",
       "path": "reports/网易/网易研究报告-20261021.md",
@@ -160,6 +182,17 @@
     {
       "title": "腾讯控股（0700.HK）研究报告",
       "path": "reports/腾讯/腾讯研究报告-20261020.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-20",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20261020.md",
       "bucket": "公司",
       "group": "腾讯",
       "series": "",
@@ -631,6 +664,17 @@
       "ticker": ""
     },
     {
+      "title": "银行股行情归因与\"收息买点\"研究",
+      "path": "reports/银行股/银行行情归因与收息买点-20261018.md",
+      "bucket": "专题",
+      "group": "银行股",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-18",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "财务表",
       "path": "reports/七公司投资研究-20261002/腾讯/财务表.md",
       "bucket": "专题",
@@ -796,6 +840,116 @@
       "ticker": ""
     },
     {
+      "title": "恒生港股通红利低波动指数（HSHYLV）投资研究报告",
+      "path": "reports/恒生港股通红利低波/恒生港股通红利低波-research-20261015.md",
+      "bucket": "专题",
+      "group": "恒生港股通红利低波",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-15",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "沪深300指数投资研究报告",
+      "path": "reports/沪深300/沪深300-research-20261014.md",
+      "bucket": "专题",
+      "group": "沪深300",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国平安（601318.SH / 2318.HK）投资研究报告",
+      "path": "reports/平安集团/平安集团-research-20261014.md",
+      "bucket": "公司",
+      "group": "平安集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中证A500指数：现在是个定投的时机吗？",
+      "path": "reports/中证A500/中证A500-research-20261014.md",
+      "bucket": "专题",
+      "group": "中证A500",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20261013.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中证红利低波动指数（H30269）投资研究报告",
+      "path": "reports/红利低波指数/红利低波指数-research-20261013.md",
+      "bucket": "专题",
+      "group": "红利低波指数",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261013.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "农业银行（601288.SH / 01288.HK）四大师综合分析报告",
+      "path": "reports/农业银行/农业银行-research-20261013.md",
+      "bucket": "公司",
+      "group": "农业银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20261011.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-11",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261010.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "李录哥大对谈：来源与译文核查记录",
       "path": "reports/李录/李录-哥大对谈-核查说明-20261009.md",
       "bucket": "大师研究",
@@ -829,6 +983,28 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261009.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20261008.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "李录演讲与访谈合集",
       "path": "reports/李录/李录演讲与访谈合集.md",
       "bucket": "大师研究",
@@ -837,6 +1013,50 @@
       "type": "研究",
       "date": "2026-10-07",
       "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "这一轮 AI 行情能到什么时候",
+      "path": "reports/AI行情-周期拐点判断-20261006.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20261005.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中证红利 / 红利低波 vs 标普500 — 四大师综合分析",
+      "path": "reports/红利vs标普500/红利vs标普500-research-20261005.md",
+      "bucket": "专题",
+      "group": "红利vs标普500",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中证红利低波ETF vs 中证红利ETF — 四大师综合分析",
+      "path": "reports/红利ETF对比/红利ETF对比-research-20261005.md",
+      "bucket": "专题",
+      "group": "红利ETF对比",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-10-05",
+      "date_source": "文件名",
       "ticker": ""
     },
     {
@@ -857,6 +1077,28 @@
       "group": "李录",
       "series": "",
       "type": "底稿",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20261005.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261005.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
       "date": "2026-10-05",
       "date_source": "文件名",
       "ticker": ""
@@ -1126,6 +1368,39 @@
       "ticker": ""
     },
     {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20260930.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20260929.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20260928.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "除了你自己，没人关心你的成本价",
       "path": "reports/公众号-除了你自己没人关心你的成本价-20260928.md",
       "bucket": "专题",
@@ -1357,6 +1632,28 @@
       "ticker": ""
     },
     {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260923.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20260923.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "快手与 MiniMax：护城河与五年盈利推演",
       "path": "reports/快手与MiniMax-护城河与五年盈利推演-20260922.md",
       "bucket": "专题",
@@ -1434,6 +1731,50 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20260918.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-18",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "当所有人用 AI 做分析：共识化之后，价值投资还能赚钱吗",
+      "path": "reports/AI共识化与价值投资-20260918.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-18",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20260915.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-15",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "A股高股息股票池去劣筛选",
+      "path": "reports/A股高股息去劣筛选-20260913.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "早期年度财务补录（用于重建长历史估值序列）",
       "path": "reports/持仓估值分位与未来盈利-20260912/早期年度财务补录.md",
       "bucket": "专题",
@@ -1507,6 +1848,50 @@
       "series": "",
       "type": "公众号",
       "date": "2026-09-12",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "农业银行（601288.SH / 01288.HK）四大师综合分析报告",
+      "path": "reports/农业银行/农业银行-research-20260911.md",
+      "bucket": "公司",
+      "group": "农业银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-11",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260910.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 9月10日更新版（9/7超级发布会落地：纸面成功 vs 股价-7.24%）",
+      "path": "reports/小米/小米-research-20260910.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告 — 关键数据更新",
+      "path": "reports/BYD/BYD-research-20260910.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
       "date_source": "文件名",
       "ticker": ""
     },
@@ -2897,6 +3282,28 @@
       "ticker": ""
     },
     {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260905.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告 — 关键数据更新",
+      "path": "reports/BYD/BYD-research-20260905.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "技术分析冲力系统实证检验：三万次事件的证伪记录",
       "path": "reports/技术分析冲力系统实证检验-20260904.md",
       "bucket": "专题",
@@ -2912,6 +3319,17 @@
       "path": "reports/快手/可灵差异化审查-模型协同与盈利三问-20260904.md",
       "bucket": "公司",
       "group": "快手",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 9月4日更新版（8月交付验证 + 澎程/18Fold发布前夜）",
+      "path": "reports/小米/小米-research-20260904.md",
+      "bucket": "公司",
+      "group": "小米",
       "series": "",
       "type": "研究",
       "date": "2026-09-04",
@@ -3007,6 +3425,17 @@
       "ticker": ""
     },
     {
+      "title": "贵州茅台（600519.SH）投资研究报告",
+      "path": "reports/茅台/茅台-research-20260828.md",
+      "bucket": "公司",
+      "group": "茅台",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "英伟达这个季度扩张的资产，86.8% 没花在自己身上",
       "path": "reports/英伟达/英伟达-三大报表解析-公众号版-20260828.md",
       "bucket": "公司",
@@ -3029,6 +3458,83 @@
       "ticker": ""
     },
     {
+      "title": "机器人ETF易方达（159530）投资研究报告",
+      "path": "reports/机器人ETF易方达/机器人ETF易方达-investment-research-20260828.md",
+      "bucket": "专题",
+      "group": "机器人ETF易方达",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "智谱（02513.HK）四大师综合分析研究报告",
+      "path": "reports/智谱/智谱-research-20260828.md",
+      "bucket": "公司",
+      "group": "智谱",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "招商银行（600036.SH / 03968.HK）投资研究报告",
+      "path": "reports/招商银行/招商银行-research-20260828.md",
+      "bucket": "公司",
+      "group": "招商银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "平安证券（Ping An Securities）投资研究报告",
+      "path": "reports/平安证券/平安证券-research-20260828.md",
+      "bucket": "公司",
+      "group": "平安证券",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "工商银行（601398.SH / 01398.HK）四大师综合分析报告",
+      "path": "reports/工商银行/工商银行-research-20260828.md",
+      "bucket": "公司",
+      "group": "工商银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "保利物业（6049.HK）投资研究报告",
+      "path": "reports/保利物业/保利物业-research-20260828.md",
+      "bucket": "公司",
+      "group": "保利物业",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国海洋石油（00883.HK / 600938.SH）港股通收息投资研究",
+      "path": "reports/中国海油/中国海油-research-20260828.md",
+      "bucket": "公司",
+      "group": "中国海油",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "MiniMax（0100.HK）麦肯锡 7S 组织诊断",
       "path": "reports/MINIMAX/MiniMax-7S组织诊断-20260828.md",
       "bucket": "公司",
@@ -3036,6 +3542,28 @@
       "series": "",
       "type": "组织管理",
       "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20260828.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "阿里巴巴集团（BABA / 9988.HK）四大师综合投资研究报告",
+      "path": "reports/阿里巴巴/阿里巴巴-research-20260827.md",
+      "bucket": "公司",
+      "group": "阿里巴巴",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-27",
       "date_source": "文件名",
       "ticker": ""
     },
@@ -3057,6 +3585,28 @@
       "group": "理想汽车",
       "series": "",
       "type": "财报",
+      "date": "2026-08-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "易方达中证红利低波动ETF（563020）投资研究报告",
+      "path": "reports/易方达红利低波ETF/易方达红利低波ETF-research-20260827.md",
+      "bucket": "专题",
+      "group": "易方达红利低波ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恒生红利低波ETF易方达（159545）投资研究报告",
+      "path": "reports/易方达港股通红利低波/易方达港股通红利低波-research-20260827.md",
+      "bucket": "专题",
+      "group": "易方达港股通红利低波",
+      "series": "",
+      "type": "研究",
       "date": "2026-08-27",
       "date_source": "文件名",
       "ticker": ""
@@ -3139,6 +3689,17 @@
       "ticker": ""
     },
     {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260826.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-26",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "理想汽车 2026 年中期业绩三大报表解析",
       "path": "reports/理想汽车/理想汽车-2026中期业绩三大报表解析-20260826.md",
       "bucket": "公司",
@@ -3172,12 +3733,45 @@
       "ticker": ""
     },
     {
+      "title": "恒生科技指数投资研究报告",
+      "path": "reports/恒生科技指数/恒生科技指数-investment-research-20260826.md",
+      "bucket": "专题",
+      "group": "恒生科技指数",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-26",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 8月26日更新版（澎程上市定档 + 玄戒芯片发布周）",
+      "path": "reports/小米/小米-research-20260826.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-26",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "唯品会 2026 年二季度三大报表逐项解析",
       "path": "reports/唯品会/唯品会-三大报表逐项解析-2026Q2-20260826.md",
       "bucket": "公司",
       "group": "唯品会",
       "series": "",
       "type": "财报",
+      "date": "2026-08-26",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "农业银行（601288.SH / 01288.HK）四大师综合分析报告",
+      "path": "reports/农业银行/农业银行-research-20260826.md",
+      "bucket": "公司",
+      "group": "农业银行",
+      "series": "",
+      "type": "研究",
       "date": "2026-08-26",
       "date_source": "文件名",
       "ticker": ""
@@ -3223,6 +3817,17 @@
       "series": "",
       "type": "研究",
       "date": "2026-08-25",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "美债（3万，3%）vs 黄金（7%）——换仓决策研究报告",
+      "path": "reports/黄金/美债vs黄金-换仓决策-20260824.md",
+      "bucket": "专题",
+      "group": "黄金",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-08-24",
       "date_source": "文件名",
       "ticker": ""
     },
@@ -3645,6 +4250,17 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资研究报告 — 8月19日更新版（Q2 2026财报落地）",
+      "path": "reports/小米/小米-research-20260819.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "腾讯控股（0700.HK）晨星估值视角增量研究",
       "path": "reports/腾讯/腾讯-晨星估值视角-20260817.md",
       "bucket": "公司",
@@ -3909,6 +4525,28 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资论文",
+      "path": "reports/小米/小米-thesis.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-14",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 8月14日更新版",
+      "path": "reports/小米/小米-research-20260814.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "看懂 DeepSeek Harness：一切皆插件的开源智能体框架",
       "path": "reports/DeepSeek/DeepSeek-Harness-开源框架深度研究-20260814.md",
       "bucket": "公司",
@@ -3959,6 +4597,17 @@
       "group": "腾讯",
       "series": "",
       "type": "公众号",
+      "date": "2026-08-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260813.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
       "date": "2026-08-13",
       "date_source": "文件名",
       "ticker": ""
@@ -4063,6 +4712,17 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资研究报告 — 8月6日更新版",
+      "path": "reports/小米/小米-research-20260806.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "浦发银行（600000.SH）投资研究报告",
       "path": "reports/浦发银行/浦发银行投资研究报告-20260805.md",
       "bucket": "公司",
@@ -4082,6 +4742,28 @@
       "type": "筛选",
       "date": "2026-08-04",
       "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260803.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-03",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究报告 — 8月3日更新版",
+      "path": "reports/小米/小米-research-20260803.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-03",
+      "date_source": "文件名",
       "ticker": ""
     },
     {
@@ -4426,6 +5108,17 @@
       "ticker": ""
     },
     {
+      "title": "保利物业（6049.HK）投资研究报告",
+      "path": "reports/保利物业/保利物业-research-20260728.md",
+      "bucket": "公司",
+      "group": "保利物业",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "存储涨价周期研究:高价还能维持几年,现在还值得投资吗",
       "path": "reports/存储行业/存储涨价周期研究-还能维持几年高价-20260727.md",
       "bucket": "专题",
@@ -4558,6 +5251,17 @@
       "ticker": ""
     },
     {
+      "title": "小米集团（01810.HK）投资研究报告",
+      "path": "reports/小米/小米-research-20260720.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-20",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "看懂 Kimi K3：2.8 万亿参数的开源前沿模型",
       "path": "reports/大模型技术/Kimi-K3深度解读-架构创新与真实水平-20260720.md",
       "bucket": "专题",
@@ -4569,10 +5273,43 @@
       "ticker": ""
     },
     {
+      "title": "黄金：风险与长期确定性评估（李录视角）",
+      "path": "reports/黄金/黄金-风险与长期确定性-李录视角-20260719.md",
+      "bucket": "专题",
+      "group": "黄金",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "黄金投资研究·最终报告",
+      "path": "reports/黄金/黄金-最终报告-20260719.md",
+      "bucket": "专题",
+      "group": "黄金",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "茅台（白酒）产业链投资研究报告",
       "path": "reports/茅台/茅台产业链投资研究报告-20260719.md",
       "bucket": "公司",
       "group": "茅台",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股 (0700.HK) 四大师综合投资研究报告",
+      "path": "reports/腾讯/腾讯-research-20260719.md",
+      "bucket": "公司",
+      "group": "腾讯",
       "series": "",
       "type": "研究",
       "date": "2026-07-19",
