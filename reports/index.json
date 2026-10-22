@@ -1,8 +1,19 @@
 {
-  "count": 2534,
-  "published": 2329,
+  "count": 2535,
+  "published": 2330,
   "drafts": 205,
   "reports": [
+    {
+      "title": "腾讯控股（0700.HK）：机构最新评级研究",
+      "path": "reports/腾讯/腾讯-research-20261022.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "腾讯控股 (0700.HK)：2024年3月的270 vs 2026年10月的404，哪个更便宜？",
       "path": "reports/腾讯/腾讯-research-20261021.md",
