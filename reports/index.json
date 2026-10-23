@@ -1,13 +1,46 @@
 {
-  "count": 2535,
-  "published": 2330,
+  "count": 2538,
+  "published": 2333,
   "drafts": 205,
   "reports": [
+    {
+      "title": "宁德时代（300750.SZ / 3750.HK）投资研究报告",
+      "path": "reports/宁德时代/宁德时代-research-20261023.md",
+      "bucket": "公司",
+      "group": "宁德时代",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "腾讯控股（0700.HK）：机构最新评级研究",
       "path": "reports/腾讯/腾讯-research-20261022.md",
       "bucket": "公司",
       "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股（0700.HK）四大师框架投资研究",
+      "path": "reports/腾讯/腾讯-research-20261022-四大师框架.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261022.md",
+      "bucket": "公司",
+      "group": "小米",
       "series": "",
       "type": "研究",
       "date": "2026-10-22",
