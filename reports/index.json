@@ -1,13 +1,46 @@
 {
-  "count": 2538,
-  "published": 2333,
+  "count": 2541,
+  "published": 2336,
   "drafts": 205,
   "reports": [
+    {
+      "title": "消费指数基金转换研究：110022 与 011853 的去留",
+      "path": "reports/消费指数基金/消费指数基金-research-20261026.md",
+      "bucket": "专题",
+      "group": "消费指数基金",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-26",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "中国海油 vs 中国石化：为什么\"最好的油公司\"看起来最便宜",
+      "path": "reports/中国海油/中国海油-vs-中国石化-research-20261026.md",
+      "bucket": "公司",
+      "group": "中国海油",
+      "series": "",
+      "type": "对比研究",
+      "date": "2026-10-26",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
     {
       "title": "宁德时代（300750.SZ / 3750.HK）投资研究报告",
       "path": "reports/宁德时代/宁德时代-research-20261023.md",
       "bucket": "公司",
       "group": "宁德时代",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "农业银行（601288.SH / 01288.HK）A股PE历史分位与买入判断",
+      "path": "reports/农业银行/农业银行-research-20261023.md",
+      "bucket": "公司",
+      "group": "农业银行",
       "series": "",
       "type": "研究",
       "date": "2026-10-23",
