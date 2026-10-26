@@ -1,6 +1,6 @@
 {
-  "count": 2541,
-  "published": 2336,
+  "count": 2542,
+  "published": 2337,
   "drafts": 205,
   "reports": [
     {
@@ -12,6 +12,17 @@
       "type": "研究",
       "date": "2026-10-26",
       "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "平安银行 vs 中国平安 vs 国有大行：三种银行生意，三种定价",
+      "path": "reports/平安银行-中国平安-国有大行对比-research-20261026.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-10-26",
+      "date_source": "文件名",
       "ticker": ""
     },
     {
