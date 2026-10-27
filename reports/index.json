@@ -1,8 +1,19 @@
 {
-  "count": 2542,
-  "published": 2337,
+  "count": 2543,
+  "published": 2338,
   "drafts": 205,
   "reports": [
+    {
+      "title": "招商银行（600036.SH / 03968.HK）投资研究报告",
+      "path": "reports/招商银行/招商银行-research-20261027.md",
+      "bucket": "公司",
+      "group": "招商银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "消费指数基金转换研究：110022 与 011853 的去留",
       "path": "reports/消费指数基金/消费指数基金-research-20261026.md",
