@@ -1,13 +1,46 @@
 {
-  "count": 2543,
-  "published": 2338,
+  "count": 2546,
+  "published": 2341,
   "drafts": 205,
   "reports": [
+    {
+      "title": "腾讯控股（0700.HK）四大师框架投资研究",
+      "path": "reports/腾讯/腾讯-research-20261027.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "招商银行（600036.SH / 03968.HK）投资研究报告",
       "path": "reports/招商银行/招商银行-research-20261027.md",
       "bucket": "公司",
       "group": "招商银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261027.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261027.md",
+      "bucket": "公司",
+      "group": "BYD",
       "series": "",
       "type": "研究",
       "date": "2026-10-27",
