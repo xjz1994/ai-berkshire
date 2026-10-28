@@ -1,8 +1,19 @@
 {
-  "count": 2546,
-  "published": 2341,
+  "count": 2547,
+  "published": 2342,
   "drafts": 205,
   "reports": [
+    {
+      "title": "中国平安（601318.SH / 2318.HK）投资研究报告",
+      "path": "reports/平安集团/平安集团-research-20261028.md",
+      "bucket": "公司",
+      "group": "平安集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "腾讯控股（0700.HK）四大师框架投资研究",
       "path": "reports/腾讯/腾讯-research-20261027.md",
