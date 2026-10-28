@@ -1,8 +1,19 @@
 {
-  "count": 2547,
-  "published": 2342,
+  "count": 2548,
+  "published": 2343,
   "drafts": 205,
   "reports": [
+    {
+      "title": "招商银行 vs 四大国有银行：一场走了五年的\"质量折价\"",
+      "path": "reports/招商银行-四大国有银行对比-research-20261028.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-10-28",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "中国平安（601318.SH / 2318.HK）投资研究报告",
       "path": "reports/平安集团/平安集团-research-20261028.md",
