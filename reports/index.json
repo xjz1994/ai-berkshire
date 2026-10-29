@@ -1,6 +1,6 @@
 {
-  "count": 2550,
-  "published": 2345,
+  "count": 2551,
+  "published": 2346,
   "drafts": 205,
   "reports": [
     {
@@ -8,6 +8,17 @@
       "path": "reports/招商证券/招商证券-research-20261029.md",
       "bucket": "公司",
       "group": "招商证券",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "招商港口（001872.SZ / 0144.HK）四大师投资研究",
+      "path": "reports/招商港口/招商港口-research-20261029.md",
+      "bucket": "公司",
+      "group": "招商港口",
       "series": "",
       "type": "研究",
       "date": "2026-10-29",
