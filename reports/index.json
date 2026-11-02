@@ -1,8 +1,30 @@
 {
-  "count": 2551,
-  "published": 2346,
+  "count": 2553,
+  "published": 2348,
   "drafts": 205,
   "reports": [
+    {
+      "title": "中国光大银行（601818.SH / 6818.HK）投资研究报告",
+      "path": "reports/光大银行/光大银行-research-20261102.md",
+      "bucket": "公司",
+      "group": "光大银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261030.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "招商证券（600999.SH / 06099.HK）投资研究报告",
       "path": "reports/招商证券/招商证券-research-20261029.md",
