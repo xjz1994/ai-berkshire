@@ -1,8 +1,19 @@
 {
-  "count": 2553,
-  "published": 2348,
+  "count": 2554,
+  "published": 2349,
   "drafts": 205,
   "reports": [
+    {
+      "title": "中国南方航空股份（600029.SH / 01055.HK）投资研究报告",
+      "path": "reports/中国南方航空/中国南方航空-research-20261104.md",
+      "bucket": "公司",
+      "group": "中国南方航空",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "中国光大银行（601818.SH / 6818.HK）投资研究报告",
       "path": "reports/光大银行/光大银行-research-20261102.md",
