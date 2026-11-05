@@ -1,8 +1,19 @@
 {
-  "count": 2555,
-  "published": 2350,
+  "count": 2556,
+  "published": 2351,
   "drafts": 205,
   "reports": [
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261105.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "中国南方航空股份（600029.SH / 01055.HK）投资研究报告",
       "path": "reports/中国南方航空/中国南方航空-research-20261104.md",
