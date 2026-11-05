@@ -1,6 +1,6 @@
 {
-  "count": 2554,
-  "published": 2349,
+  "count": 2555,
+  "published": 2350,
   "drafts": 205,
   "reports": [
     {
@@ -10,6 +10,17 @@
       "group": "中国南方航空",
       "series": "",
       "type": "研究",
+      "date": "2026-11-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "A股 + 港股通 蓝筹白马筛选（2026-11-04）",
+      "path": "reports/A股港股通蓝筹白马筛选-20261104.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
       "date": "2026-11-04",
       "date_source": "文件名",
       "ticker": ""
