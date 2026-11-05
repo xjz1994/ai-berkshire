@@ -1,6 +1,6 @@
 {
-  "count": 2557,
-  "published": 2352,
+  "count": 2558,
+  "published": 2353,
   "drafts": 205,
   "reports": [
     {
@@ -19,6 +19,17 @@
       "path": "reports/小米/小米-research-20261105.md",
       "bucket": "公司",
       "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "公牛集团（603195.SH）投资研究报告",
+      "path": "reports/公牛集团/公牛集团-research-20261105.md",
+      "bucket": "公司",
+      "group": "公牛集团",
       "series": "",
       "type": "研究",
       "date": "2026-11-05",
