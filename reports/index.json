@@ -1,6 +1,6 @@
 {
-  "count": 2558,
-  "published": 2353,
+  "count": 2559,
+  "published": 2354,
   "drafts": 205,
   "reports": [
     {
@@ -30,6 +30,17 @@
       "path": "reports/公牛集团/公牛集团-research-20261105.md",
       "bucket": "公司",
       "group": "公牛集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "东鹏饮料（605499.SH / 09980.HK）四大师投研报告",
+      "path": "reports/东鹏饮料/东鹏饮料-research-20261105.md",
+      "bucket": "公司",
+      "group": "东鹏饮料",
       "series": "",
       "type": "研究",
       "date": "2026-11-05",
