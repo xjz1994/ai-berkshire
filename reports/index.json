@@ -1,8 +1,52 @@
 {
-  "count": 2559,
-  "published": 2354,
+  "count": 2563,
+  "published": 2358,
   "drafts": 205,
   "reports": [
+    {
+      "title": "华润三九（000999.SZ）四大师投研报告",
+      "path": "reports/华润三九/华润三九-research-20261107.md",
+      "bucket": "公司",
+      "group": "华润三九",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中海物业（2669.HK）投资研究报告",
+      "path": "reports/中海物业/中海物业-research-20261107.md",
+      "bucket": "公司",
+      "group": "中海物业",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "广发证券（000776.SZ / 1776.HK）四大师投研报告",
+      "path": "reports/广发证券/广发证券-research-20261106.md",
+      "bucket": "公司",
+      "group": "广发证券",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "券商板块：蓝筹白马筛选（2026-11-06）",
+      "path": "reports/券商板块-蓝筹白马筛选-20261106.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "腾讯控股（0700.HK）四大师框架投资研究",
       "path": "reports/腾讯/腾讯-research-20261105.md",
