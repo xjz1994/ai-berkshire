@@ -1,8 +1,74 @@
 {
-  "count": 2563,
-  "published": 2358,
-  "drafts": 205,
+  "count": 2576,
+  "published": 2370,
+  "drafts": 206,
   "reports": [
+    {
+      "title": "自由现金流指数成分股：谁有定价权，谁在周期底部",
+      "path": "reports/自由现金流指数-funnel-20261108.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-11-08",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "粤海投资（0270.HK）投资研究报告",
+      "path": "reports/粤海投资/粤海投资-research-20261108.md",
+      "bucket": "公司",
+      "group": "粤海投资",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恒生港股通自由现金流指数：谁有定价权，谁只是便宜",
+      "path": "reports/恒生港股通自由现金流-定价权与低估筛选-20261108.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-11-08",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "安琪酵母（600298.SH）投资研究报告",
+      "path": "reports/安琪酵母/安琪酵母-research-20261108.md",
+      "bucket": "公司",
+      "group": "安琪酵母",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中信特钢（000708.SZ）投资研究报告",
+      "path": "reports/中信特钢/中信特钢-research-20261108.md",
+      "bucket": "公司",
+      "group": "中信特钢",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "国泰海通（601211.SH / 02611.HK）四大师投研报告",
+      "path": "reports/国泰海通/国泰海通-research-20261107.md",
+      "bucket": "公司",
+      "group": "国泰海通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "华润三九（000999.SZ）四大师投研报告",
       "path": "reports/华润三九/华润三九-research-20261107.md",
@@ -15,10 +81,43 @@
       "ticker": ""
     },
     {
+      "title": "光大证券（601788.SH / 6178.HK）四大师投研报告",
+      "path": "reports/光大证券/光大证券-research-20261107.md",
+      "bucket": "公司",
+      "group": "光大证券",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "中海物业（2669.HK）投资研究报告",
       "path": "reports/中海物业/中海物业-research-20261107.md",
       "bucket": "公司",
       "group": "中海物业",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国海洋石油（CNOOC）投资研究报告",
+      "path": "reports/中国海油/中国海油-research-20261107.md",
+      "bucket": "公司",
+      "group": "中国海油",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261107.md",
+      "bucket": "公司",
+      "group": "BYD",
       "series": "",
       "type": "研究",
       "date": "2026-11-07",
@@ -92,6 +191,28 @@
       "ticker": ""
     },
     {
+      "title": "京东物流研究：7.9倍PE的物流网，便宜写在明处，平庸藏在利润表里",
+      "path": "reports/京东物流/京东物流-research-20261104.md",
+      "bucket": "公司",
+      "group": "京东物流",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-04",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "中国电信（601728.SH / 0728.HK）投资研究报告",
+      "path": "reports/中国电信/中国电信-research-20261104.md",
+      "bucket": "公司",
+      "group": "中国电信",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "中国南方航空股份（600029.SH / 01055.HK）投资研究报告",
       "path": "reports/中国南方航空/中国南方航空-research-20261104.md",
       "bucket": "公司",
@@ -110,6 +231,28 @@
       "series": "",
       "type": "筛选",
       "date": "2026-11-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "微信支付护城河 vs 抖音支付：还差多远",
+      "path": "reports/微信支付vs抖音支付/微信支付vs抖音支付-护城河对比-20261102.md",
+      "bucket": "专题",
+      "group": "微信支付vs抖音支付",
+      "series": "",
+      "type": "横评对比",
+      "date": "2026-11-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "数据抽检记录 — 微信支付vs抖音支付-护城河对比-20261102",
+      "path": "reports/微信支付vs抖音支付/审计/数据抽检-20261102.md",
+      "bucket": "专题",
+      "group": "微信支付vs抖音支付",
+      "series": "审计",
+      "type": "底稿",
+      "date": "2026-11-02",
       "date_source": "文件名",
       "ticker": ""
     },
