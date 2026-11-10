@@ -1,8 +1,30 @@
 {
-  "count": 2576,
-  "published": 2370,
+  "count": 2578,
+  "published": 2372,
   "drafts": 206,
   "reports": [
+    {
+      "title": "腾讯控股（0700.HK）四大师框架投资研究",
+      "path": "reports/腾讯/腾讯-research-20261110.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261110.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "自由现金流指数成分股：谁有定价权，谁在周期底部",
       "path": "reports/自由现金流指数-funnel-20261108.md",
