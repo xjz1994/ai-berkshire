@@ -1,6 +1,6 @@
 {
-  "count": 2578,
-  "published": 2372,
+  "count": 2581,
+  "published": 2375,
   "drafts": 206,
   "reports": [
     {
@@ -15,10 +15,43 @@
       "ticker": ""
     },
     {
+      "title": "泡泡玛特：LABUBU 退潮之后，12.5 倍 PE 是便宜还是陷阱",
+      "path": "reports/泡泡玛特/泡泡玛特-research-20261110.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "布鲁可集团（00325.HK）投资研究报告",
+      "path": "reports/布鲁可/布鲁可-research-20261110.md",
+      "bucket": "公司",
+      "group": "布鲁可",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
       "path": "reports/小米/小米-research-20261110.md",
       "bucket": "公司",
       "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国海洋石油（CNOOC）投资研究报告（第二版·跟踪更新）",
+      "path": "reports/中国海油/中国海油-research-20261110.md",
+      "bucket": "公司",
+      "group": "中国海油",
       "series": "",
       "type": "研究",
       "date": "2026-11-10",
