@@ -1,6 +1,6 @@
 {
-  "count": 2581,
-  "published": 2375,
+  "count": 2582,
+  "published": 2376,
   "drafts": 206,
   "reports": [
     {
@@ -21,6 +21,17 @@
       "group": "泡泡玛特",
       "series": "",
       "type": "研究",
+      "date": "2026-11-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手-W（1024.HK）去劣筛选",
+      "path": "reports/快手/快手-quality-screen-20261110.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "",
+      "type": "筛选",
       "date": "2026-11-10",
       "date_source": "文件名",
       "ticker": ""
