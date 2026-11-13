@@ -18,7 +18,7 @@
 
 > 📖 **想读报告，用 [阅读站](https://xbtlin.github.io/ai-berkshire/)**：成品报告按公司、专题、时间整理，电脑和手机都好读，可搜索、记住阅读进度。
 >
-> 📊 全部 2378 份报告（含底稿）· 133 家公司 · 40 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-13。
+> 📊 全部 2379 份报告（含底稿）· 133 家公司 · 40 个专题，GitHub 上的完整目录见 [研究报告索引](reports/README.md)，更新至 2026-11-13。
 
 <!-- REPORTS-BANNER:END -->
 
@@ -664,18 +664,18 @@ REM 可选：安装 Codex slash prompts
 
 <!-- REPORTS-INDEX:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-**📊 [全部研究索引 →](reports/README.md)** ｜ 2378 份报告 · 133 家公司 · 40 个专题 · 更新至 2026-11-13
+**📊 [全部研究索引 →](reports/README.md)** ｜ 2379 份报告 · 133 家公司 · 40 个专题 · 更新至 2026-11-13
 
 最近更新：
 
 | 日期 | 报告 | 归属 |
 |------|------|------|
 | 2026-11-13 | [腾讯控股（0700.HK）四大师框架投资研究](reports/腾讯/腾讯-research-20261113.md) | 腾讯 |
+| 2026-11-13 | [比亚迪（BYD）投资研究报告](reports/BYD/BYD-research-20261113.md) | BYD |
 | 2026-11-11 | [比亚迪（BYD）投资研究报告](reports/BYD/BYD-research-20261111.md) | BYD |
 | 2026-11-10 | [腾讯控股（0700.HK）四大师框架投资研究](reports/腾讯/腾讯-research-20261110.md) | 腾讯 |
 | 2026-11-10 | [泡泡玛特：LABUBU 退潮之后，12.5 倍 PE 是便宜还是陷阱](reports/泡泡玛特/泡泡玛特-research-20261110.md) | 泡泡玛特 |
 | 2026-11-10 | [快手-W（1024.HK）去劣筛选](reports/快手/快手-quality-screen-20261110.md) | 快手 |
-| 2026-11-10 | [布鲁可集团（00325.HK）投资研究报告](reports/布鲁可/布鲁可-research-20261110.md) | 布鲁可 |
 
 <!-- REPORTS-INDEX:END -->
 

@@ -1,6 +1,6 @@
 {
-  "count": 2584,
-  "published": 2378,
+  "count": 2585,
+  "published": 2379,
   "drafts": 206,
   "reports": [
     {
@@ -8,6 +8,17 @@
       "path": "reports/腾讯/腾讯-research-20261113.md",
       "bucket": "公司",
       "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261113.md",
+      "bucket": "公司",
+      "group": "BYD",
       "series": "",
       "type": "研究",
       "date": "2026-11-13",
