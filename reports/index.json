@@ -1,8 +1,19 @@
 {
-  "count": 2583,
-  "published": 2377,
+  "count": 2584,
+  "published": 2378,
   "drafts": 206,
   "reports": [
+    {
+      "title": "腾讯控股（0700.HK）四大师框架投资研究",
+      "path": "reports/腾讯/腾讯-research-20261113.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "比亚迪（BYD）投资研究报告",
       "path": "reports/BYD/BYD-research-20261111.md",
