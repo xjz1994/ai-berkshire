@@ -1,8 +1,19 @@
 {
-  "count": 2596,
-  "published": 2390,
+  "count": 2597,
+  "published": 2391,
   "drafts": 206,
   "reports": [
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261120.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-20",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "腾讯控股（0700.HK）四大师框架投资研究",
       "path": "reports/腾讯/腾讯-research-20261119.md",
