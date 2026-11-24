@@ -1,8 +1,96 @@
 {
-  "count": 2597,
-  "published": 2391,
-  "drafts": 206,
+  "count": 2605,
+  "published": 2398,
+  "drafts": 207,
   "reports": [
+    {
+      "title": "腾讯控股（0700.HK）四大师框架投资研究",
+      "path": "reports/腾讯/腾讯-research-20261123.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "招商银行（600036.SH / 03968.HK）投资研究报告",
+      "path": "reports/招商银行/招商银行-research-20261123.md",
+      "bucket": "公司",
+      "group": "招商银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国平安（601318.SH / 02318.HK）投资研究报告",
+      "path": "reports/平安集团/平安集团-research-20261123.md",
+      "bucket": "公司",
+      "group": "平安集团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
+      "path": "reports/小米/小米-research-20261123.md",
+      "bucket": "公司",
+      "group": "小米",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "国泰海通（601211.SH / 02611.HK）跟踪研究：三季报后的证伪与修正",
+      "path": "reports/国泰海通/国泰海通-research-20261123.md",
+      "bucket": "公司",
+      "group": "国泰海通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "比亚迪（BYD）投资研究报告",
+      "path": "reports/BYD/BYD-research-20261123.md",
+      "bucket": "公司",
+      "group": "BYD",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "网易研究：游戏收入两年来首降，丁磊承认短剧抢注意力，38% 市值是现金",
+      "path": "reports/网易/网易-research-20261120.md",
+      "bucket": "公司",
+      "group": "网易",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-20",
+      "date_source": "front-matter",
+      "ticker": ""
+    },
+    {
+      "title": "数据来源清单 — 网易 2026-11-20",
+      "path": "reports/网易/research-20261120/sources.md",
+      "bucket": "公司",
+      "group": "网易",
+      "series": "research-20261120",
+      "type": "底稿",
+      "date": "2026-11-20",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "小米集团（01810.HK）投资研究 —— 四大师综合分析",
       "path": "reports/小米/小米-research-20261120.md",
